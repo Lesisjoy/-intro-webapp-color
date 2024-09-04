@@ -1,0 +1,22 @@
+#colorBox {
+    height: 150px;
+    background-color: #000000;
+}
+
+body {
+    background-color: #1E1E1E; /* Aquí puedes poner el color que prefieras */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #E0B973; /* Rojo */
+}
+
+p {
+    color: #ffffff; /* Verde */
+}
+
+label {
+    color: #ffffff; /* Cambia #FF5733 por el color que prefieras */
+}
